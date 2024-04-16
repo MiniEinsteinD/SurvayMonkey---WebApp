@@ -1,4 +1,4 @@
-# sysc-4806-project
+# Simplified Survey Monkey
 
 # Background
 
