@@ -3,6 +3,8 @@
 # Background
 
 This project is a simplified survey application, based on SurveyMonkey, allowing surveyors to create surveys with diverse question types—open-ended, numeric within a range, and multiple-choice. The application dynamically generates user-friendly survey forms corresponding to the question types. Participants can fill out these surveys, and surveyors have the flexibility to close surveys at their discretion. Upon closure, the application generates a comprehensive result report, presenting open-ended responses as-is, visualizing numeric answers through histograms, and displaying multiple-choice responses in pie charts. With features for survey creation, participant engagement, and result compilation, the application serves as a versatile tool for conducting and analyzing surveys in various formats.
+
+Real Survey Monkey Page: https://www.surveymonkey.com/
   
 # Getting Started
 
